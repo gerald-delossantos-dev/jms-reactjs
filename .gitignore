@@ -1,0 +1,15 @@
+node_modules/
+dist/
+bin/
+obj/
+.vs/
+.vscode/*
+!.vscode/extensions.json
+.env.local
+.env.*.local
+*.user
+*.suo
+*.log
+.DS_Store
+Thumbs.db
+coverage/
