@@ -1,4 +1,4 @@
-# DVM Vircon JMS Dashboard - React + .NET 10 Web API
+# DBM Vircon JMS Dashboard - React + .NET 10 Web API
 
 A deployment-ready sample Job Management System dashboard for BIM engineering teams.
 
